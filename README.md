@@ -3,6 +3,8 @@ I am attempting to aggregate reporting requirements. Many of these require legal
 
 Note this is only looking at reporting obligations and potential fines/penalties.  Total costs would include legal fees to help interpret and review reporting obligations, material and costs for notification letters, cost for identity monitoring.  A private company, with no international customers and 1000 impacted customers could see costs anywhere from $100k-$500k before any fines.
 
+Full disclosure: I used ChatGPT to help organize some of this, but I did most of the research.  I am not an attorney so there may be some missing info or citations here, if you see anything please feel free to make a PR.
+
 # Disclaimer
 I am not an attorney and this is not legal advice
 
