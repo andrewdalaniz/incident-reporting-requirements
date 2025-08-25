@@ -1,6 +1,8 @@
 # incident-reporting-requirements
 I am attempting to aggregate reporting requirements. Many of these require legal interpretation based on the specific incident, does it apply, and what are the requirements. I only listed 3 states, but all 50 states potentially have their own reporting requirements.  The goal of this is to have a point in time list of references to potential reporting obligations for cybersecurity incidents.
 
+Note this is only looking at reporting obligations and potential fines/penalties.  Total costs would include legal fees to help interpret and review reporting obligations, material and costs for notification letters, cost for identity monitoring.  A private company, with no international customers and 1000 impacted customers could see costs anywhere from $100k-$500k before any fines.
+
 # Disclaimer
 I am not an attorney and this is not legal advice
 
